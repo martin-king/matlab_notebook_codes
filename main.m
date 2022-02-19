@@ -1,4 +1,4 @@
-% martin king, 31 aug 09.
+% martin king, 31 aug 2009.
 % this is using the shooting method
 % the two ODEs we need to solve.
 % du/dy=z
