@@ -8,8 +8,10 @@ King, Martin P., 2022, Computational Methods with MATLAB Examples and Exercises,
 
 ## Table of Contents
 
-Foreword..................................................................................................................................5\
-Exercise 1. 2D Laplace Equation (an elliptic PDE).................................................................7\ 
+Foreword..................................................................................................................................5
+
+Exercise 1. 2D Laplace Equation (an elliptic PDE).................................................................7
+
 Exercise 2. 2D Poisson Equation (an elliptic PDE)................................................................11\ 
 Exercise 3. 1D Time-dependent Heat Conduction Equation (a parabolic PDE)....................15\ 
 Exercise 4. 2D Time-dependent Heat Conduction Equation (a parabolic PDE)....................18\ 
