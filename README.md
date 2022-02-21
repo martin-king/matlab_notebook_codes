@@ -8,15 +8,15 @@ King, Martin P., 2022, Computational Methods with MATLAB Examples and Exercises,
 
 ## Table of Contents
 
-Foreword..................................................................................................................................5 
-Exercise 1. 2D Laplace Equation (an elliptic PDE).................................................................7 
-Exercise 2. 2D Poisson Equation (an elliptic PDE)................................................................11 
-Exercise 3. 1D Time-dependent Heat Conduction Equation (a parabolic PDE)....................15 
-Exercise 4. 2D Time-dependent Heat Conduction Equation (a parabolic PDE)....................18 
-Exercise 5. ODE – Numerical Order of Accuracy.................................................................26 
-Exercise 6. ODE – Numerical Order of Accuracy and Stability............................................30 
-Exercise 7. ODE – Lorenz Equations.....................................................................................35 
-Exercise 8. ODE – Eigenvalues and Eigenvectors.................................................................41 
-Exercise 9. ODE – Boundary Value Problems.......................................................................44 
-Exercise 10. Interpolation.......................................................................................................47 
-Exercise 11. Filters.................................................................................................................51 Bibliography...........................................................................................................................56
+Foreword..................................................................................................................................5\
+Exercise 1. 2D Laplace Equation (an elliptic PDE).................................................................7\ 
+Exercise 2. 2D Poisson Equation (an elliptic PDE)................................................................11\ 
+Exercise 3. 1D Time-dependent Heat Conduction Equation (a parabolic PDE)....................15\ 
+Exercise 4. 2D Time-dependent Heat Conduction Equation (a parabolic PDE)....................18\ 
+Exercise 5. ODE – Numerical Order of Accuracy.................................................................26\ 
+Exercise 6. ODE – Numerical Order of Accuracy and Stability............................................30\ 
+Exercise 7. ODE – Lorenz Equations.....................................................................................35\ 
+Exercise 8. ODE – Eigenvalues and Eigenvectors.................................................................41\ 
+Exercise 9. ODE – Boundary Value Problems.......................................................................44\ 
+Exercise 10. Interpolation.......................................................................................................47\ 
+Exercise 11. Filters.................................................................................................................51\ Bibliography...........................................................................................................................56\
