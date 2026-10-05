@@ -18,9 +18,9 @@ Exercise 3. 1D Time-dependent Heat Conduction Equation (a parabolic PDE)........
 
 Exercise 4. 2D Time-dependent Heat Conduction Equation (a parabolic PDE)....................18
 
-Exercise 5. ODE – Numerical Order of Accuracy.................................................................26
+Exercise 5. ODE – Numerical Order of Accuracy...................................................................26
 
-Exercise 6. ODE – Numerical Order of Accuracy and Stability............................................30
+Exercise 6. ODE – Numerical Order of Accuracy and Stability..............................................30
 
 Exercise 7. ODE – Lorenz Equations.....................................................................................35
 
